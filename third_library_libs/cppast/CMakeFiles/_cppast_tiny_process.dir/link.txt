@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc lib_cppast_tiny_process.a  CMakeFiles/_cppast_tiny_process.dir/external/tiny-process-library/process.cpp.o CMakeFiles/_cppast_tiny_process.dir/external/tiny-process-library/process_unix.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib lib_cppast_tiny_process.a
